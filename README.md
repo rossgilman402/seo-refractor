@@ -8,7 +8,7 @@ This project is a refractor type project in which I was given source code and ha
 
 ## Installation
 
-To install the start code you must clone the Columbia University GitLab repository through your terminal. Next, you have to copy the starter code from the 02-challenge section under the 01-HTML-Git-CSS directory and paste it into your own personal directory. Then you have to git init within the directory which will turn your files into a github repo. Finally, you must go online to github.com under the settings tab in the posted repo and launch the website on github pages.
+To install the start code you must clone the Columbia University GitLab repository through your terminal. Next, you have to copy the starter code from the 02-challenge section under the 01-HTML-Git-CSS directory and paste it into your own personal directory. Then you have to git init within the directory which will turn your files into a github repo. Finally, you must go online to github.com under the settings tab in the posted repo and launch the website on github pages. The current website is live at https://rossgilman.com/seo-refractor/.
 
 ## Usage
 
